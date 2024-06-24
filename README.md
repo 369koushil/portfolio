@@ -16,9 +16,6 @@ This website showcases my skills, projects, and contact information. It includes
 - HTML
 - CSS
 - JavaScript (ES6+)
-- ReactJS
-- NextJS
-- TailwindCSS
 
 ## Installation
 
