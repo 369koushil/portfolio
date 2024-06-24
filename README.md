@@ -25,4 +25,4 @@ This website showcases my skills, projects, and contact information. It includes
 To run this website locally, follow these steps:
 
 1. Clone this repository to your local machine:
-
+  git clone https://github.com/369koushil/portfolio.git
