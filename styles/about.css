@@ -47,6 +47,7 @@
 .about__list{
     font-size: var(--size-sm);
     color: var(--clr-slate600);
+    font-weight: 600;
 }
 
 .about__list::before{
