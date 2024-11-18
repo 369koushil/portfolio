@@ -19,6 +19,13 @@
     gap: 2rem;
     flex-direction: column;
 }
+
+.mobile_nav_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 .mobile-nav__link{
     color: var(--clr-slate600);
     font-size: var(--size-sm);

@@ -16,7 +16,15 @@
 /* 2xl */
 /* @media (min-width: 1536px) {} */
 
-
+.header_icon{
+    color: #f1f5f9;
+    transition-property: color;
+    transition-duration: 0.3s;
+    color: var(--clr-slate600);
+}
+.header_icon:hover{
+    color: var(--clr-rose);
+}
 .btn{
     display: inline-block;
     font-weight: 600;
