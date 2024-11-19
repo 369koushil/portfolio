@@ -9,6 +9,7 @@ import '../styles/contact.css'
 import '../styles/footer.css'
 import '../styles/mobile-nav.css'
 import '../styles/utilis.css'
+import { inject } from "@vercel/analytics"
 
 
 import mobile_menu_load from   './utils/mobile-nav'
@@ -19,4 +20,4 @@ mobile_menu_load();
 mode_toggler();
 lazyLoading();
 
-
+inject()
