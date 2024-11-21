@@ -110,6 +110,7 @@
         'content6 image6';
       place-items: center;
     }
+
   
     .work__image1 {
       grid-area: image1;
@@ -158,6 +159,8 @@
     .work__content6 {
       grid-area: content6;
     }
+
+
   
     .work__project {
       padding: 0 1rem;
@@ -268,6 +271,7 @@
       width: 80%;
       margin: 0 auto;
     }
+  
   }
   
   /* 2xl */
@@ -275,4 +279,5 @@
     .work__container {
       width: 70%;
     }
+  
   }
