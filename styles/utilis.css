@@ -56,6 +56,12 @@
     margin-top: 5rem;
 }
 
+.btn-unique{
+   display: flex;
+   column-gap: 5px;
+   justify-content: center;
+}
+
 /* xs */
 @media (min-width: 475px){
     .container{
