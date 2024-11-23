@@ -22,22 +22,32 @@
     flex-wrap: wrap;
    
 }
-.quote-innerdiv{
-  display: flex;
-  justify-content: end;
-  width: 100%;
-}
 
 .quote:hover{
   color: var(--clr-light);
 }
 
 
+.footerr__title{
+  display: flex;
+  justify-content: center;
+  font-size: var(--size-3xl);
+  color: var(--clr-light);
+  font-weight: 1000;
+}
+
+
+.quote-innerdiv{
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
 
 
 
 
-
-
-
-
+.quote-innerdiv{
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
