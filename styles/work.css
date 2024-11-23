@@ -4,7 +4,7 @@
   
   .work__title {
     font-size: var(--size-2xl);
-    color: var(--clr-light);
+    color: var(--clr-light2);
   }
   
   .work__description {
@@ -63,6 +63,7 @@
   
   .work__project-subtitle {
     display: none;
+    color:var(--clr-light3)
   }
   
   /* xs */
@@ -253,6 +254,7 @@
   
     .work__project-description1 {
       font-size: var(--size-lg);
+    
     }
   
     .work__project-description2 {
@@ -281,3 +283,8 @@
     }
   
   }
+
+  
+
+
+ 
