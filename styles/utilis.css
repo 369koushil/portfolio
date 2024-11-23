@@ -81,6 +81,7 @@
     .container{
         min-width: 768px
     }
+   
 }
 
 /* lg */
@@ -120,19 +121,7 @@
     filter: blur(0) grayscale(0);
 }
 
-.quote{
-    color: var(--clr-slate600);
-   
-    font-size: var(--size-2xl);
-    font-weight: 500;
-    height: 12vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition :color 0.5s;
-  
 
-}
 .quote:hover{
     color: var(--clr-light);
 }
@@ -144,9 +133,4 @@
     font-size: var(--size-4xl);
     color: var(--clr-light);
     font-weight: 1000;
-}
-
-.footer_div{
-
-gap: 20px;
 }

@@ -7,3 +7,37 @@
     letter-spacing: 0.2em;
     user-select: none;
   }
+
+
+  .quote{
+    color: var(--clr-slate600);
+    font-size: var(--size-xl);
+    font-weight: 500;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition :color 0.5s;
+    width: 100%;
+    flex-wrap: wrap;
+   
+}
+.quote-innerdiv{
+  display: flex;
+  justify-content: end;
+  width: 100%;
+}
+
+.quote:hover{
+  color: var(--clr-light);
+}
+
+
+
+
+
+
+
+
+
+
