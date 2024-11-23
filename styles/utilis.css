@@ -122,15 +122,3 @@
 }
 
 
-.quote:hover{
-    color: var(--clr-light);
-}
-
-
-.footerr__title{
-    display: flex;
-    justify-content: center;
-    font-size: var(--size-4xl);
-    color: var(--clr-light);
-    font-weight: 1000;
-}
