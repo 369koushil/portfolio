@@ -134,7 +134,7 @@
 
 }
 .quote:hover{
-    color: antiquewhite;
+    color: var(--clr-light);
 }
 
 
