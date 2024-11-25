@@ -10,6 +10,7 @@ import '../styles/footer.css'
 import '../styles/mobile-nav.css'
 import '../styles/utilis.css'
 import { inject } from "@vercel/analytics"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 
 import mobile_menu_load from   './utils/mobile-nav'
@@ -21,3 +22,4 @@ mode_toggler();
 lazyLoading();
 
 inject()
+SpeedInsights()
